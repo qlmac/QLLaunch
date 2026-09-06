@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>经典启动台更新</title>
+        <link>https://github.com/qlmac/QLLaunch</link>
+        <description>经典启动台正式版更新</description>
+        <language>zh-CN</language>
+        <item>
+            <title>0.19.24</title>
+            <pubDate>Wed, 02 Sep 2026 09:04:09 +0800</pubDate>
+            <link>https://github.com/qlmac/QLLaunch</link>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.19.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.24-68.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.24-68.zip" length="4371332" type="application/octet-stream" sparkle:edSignature="fSyi7T4a7ooVtzGM65bjA9RcLx6qCg4+PD5fIm1fBADzBDJmZMyh3tIu6fsxQGljhXjS8Lwngh5FLancI6l/AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B068-67.delta" sparkle:deltaFrom="67" length="211278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IfuL1VhDc0YZx9V7Z9UGTqOAJtyq8m+pRAl5lnfqpYZSYRsVy3Bs8tLoqQllV67M3xfdUajRVNXFb6E8qECNCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B068-66.delta" sparkle:deltaFrom="66" length="228486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jJ9FROOpdEaiMmcJROlna9QJq59iF5uaoyYZPAdETGlI8YKQtjBhJi/1YW47DpA7C75FzynA77onFZu9s7bSAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B068-65.delta" sparkle:deltaFrom="65" length="238682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WOpxBij4r7YU7OG8uCs/ttJgqmxlJMV+Roa9oNkiBwKCfO1OmsrdW1jq8Nc0DixCI6eJhjv49UbMTcA00qrPDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.19.23</title>
+            <pubDate>Tue, 01 Sep 2026 17:52:46 +0800</pubDate>
+            <link>https://github.com/qlmac/QLLaunch</link>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>0.19.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.23-67.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.23-67.zip" length="4366227" type="application/octet-stream" sparkle:edSignature="iMOsvNVYkNVfmgUvoaAScgviqVETuvginAjynMWt348jOm8zlUcbuIUu6fMHo95oJXmUy75SEPJyxMoyBk5nDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B067-66.delta" sparkle:deltaFrom="66" length="178166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jOMjpZmeiPZH/BiCSAX8LQBK08EtaxWto3AoFP1JrrfoGuwXlP7EmcnbGNOY8nrFTYXyCOl0gsXrhVAL1VH6DQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B067-65.delta" sparkle:deltaFrom="65" length="191190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/22UAZnbn1VywH9wgv3nPLj4INOSOaboLQ9EV/M6kOJOXf3ouHD1A1J+0micC9YJqAcjJ0Ey891FksAzHfOVCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.19.22</title>
+            <pubDate>Tue, 01 Sep 2026 17:41:00 +0800</pubDate>
+            <link>https://github.com/qlmac/QLLaunch</link>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.19.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.22-66.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/ClassicLaunch-0.19.22-66.zip" length="4358547" type="application/octet-stream" sparkle:edSignature="LRoaMemfcgAvOKENPL2u7S8ZV6Xmty+5hiOna7HpP5IqCTyesPt4V0CHQlGyMekM75JbvvwrfkiLRMl5PF5cBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/%E7%BB%8F%E5%85%B8%E5%90%AF%E5%8A%A8%E5%8F%B066-65.delta" sparkle:deltaFrom="65" length="121858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tGeN2wza2VwhLOj5O3LQBZuf4m8pdPc951RVnXn7ZMptSyUHREiWWzr6i/hVRUq7mW/iZmE+/hr3yydokxxDBQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
