@@ -3,15 +3,15 @@
     <channel>
         <title>轻量启动台</title>
         <item>
-            <title>0.21.11</title>
-            <pubDate>Sun, 06 Sep 2026 13:57:02 +0800</pubDate>
+            <title>0.21.12</title>
+            <pubDate>Sun, 06 Sep 2026 14:07:35 +0800</pubDate>
             <link>https://github.com/qlmac/QLLaunch</link>
-            <sparkle:version>99</sparkle:version>
-            <sparkle:shortVersionString>0.21.11</sparkle:shortVersionString>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.21.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-0.21.11-99.md</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-0.21.11-99.zip" length="4793260" type="application/octet-stream" sparkle:edSignature="srCHEmExmdO5iROW/CPYv2oZFNW7+k54p49U6aJ9mxfmmtAHkdxvrvXjN5SOIm3aVaTemKKwuV6jyB2LxrsDCQ=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-0.21.12-100.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-0.21.12-100.zip" length="4793254" type="application/octet-stream" sparkle:edSignature="8gTIWo4FhTPZcIoAwG+C5uSdVA2bwa4oaFbbTOi9++Xh+mCi3wXrwHHjQ+LqsL1x+aZDNpyA+SItBZyp5wRZDg=="/>
         </item>
     </channel>
 </rss>
