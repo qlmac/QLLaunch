@@ -1,14 +1,18 @@
 # QL Launch 官方下载与更新
 
-当前版本：**1.1.0（106）**。支持 Apple Silicon / Intel，要求 macOS 14.0 或更新版本。
+当前版本：**1.1.1（109）**。支持 Apple Silicon / Intel，要求 macOS 14.0 或更新版本，包含 9 种语言。
 
-- [下载 DMG 安装包](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.0-106-Universal.dmg)
-- [下载备用 ZIP](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.0-106-Universal.zip)
-- [SHA-256 校验和](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.0-106-Universal-SHA256SUMS.txt)
-- [升级说明](https://github.com/qlmac/QLLaunch/blob/main/QLLaunch-1.1.0-106.md)
+- [下载 DMG 安装包](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.1-109-Universal.dmg)
+- [下载备用 ZIP](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.1-109-Universal.zip)
+- [SHA-256 校验和](https://raw.githubusercontent.com/qlmac/QLLaunch/main/QLLaunch-1.1.1-109-Universal-SHA256SUMS.txt)
+- [升级说明](https://github.com/qlmac/QLLaunch/blob/main/QLLaunch-1.1.1-109-Universal.md)
 
-安装：打开 DMG，将轻量启动台拖入 Applications。安装包已正式签名并通过 Apple 公证。
+图库右键菜单已精简；照片和空白处均保留“设置…”与“转移到显示器”。多选时隐藏单张编辑，复制到另一栏只在目标可用时显示。升级源选择、检查、下载及安装确认在一个窗口中完成，下载与解压显示真实进度。
 
-**0.x 版本请先完全退出旧版，再下载完整安装包手动安装一次。** 当前更新提示提供完整包下载入口。历史 0.x 安装包已从当前下载目录移除，Git 历史仍保留。
+安装：打开 DMG，将轻量启动台拖入 Applications。App 与 DMG 均已正式签名并通过 Apple 公证。
+
+**正式 1.1.0（106）及更新版本可在软件内检查更新。0.x 版本请完全退出后，下载完整安装包手动安装一次。** 当前下载目录从 1.1.0 开始保留正式发布集，Git 历史保留。
+
+Gitee 更新源更适合中国线路；GitHub 可作为备用源。
 
 本仓库仅保存公开下载、更新清单和发布说明，不保存源码、用户配置、私钥或证书。联系邮箱：admin@qlmf.com。
