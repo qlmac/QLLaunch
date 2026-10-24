@@ -1,0 +1,2 @@
+5855d146944d973760583fb6aeed4ec83c5ad68a08699bbcabdada395e2aa0c8  QLLaunch-1.1.1-110-Universal.dmg
+bd07e3b8fdc79675c839c58681069169bf87fe10e28ae6135fc4e8cbc1797a50  QLLaunch-1.1.1-110-Universal.zip
