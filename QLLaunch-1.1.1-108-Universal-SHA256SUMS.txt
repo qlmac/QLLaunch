@@ -1,2 +1,0 @@
-42978b1ce8f1b3771d1dcf8dc86feae8d7d6cb8010f86402f73cb6360e6cc4db  QLLaunch-1.1.1-108-Universal.dmg
-723f4702c2c715a092b0d0b06046760ed227b8051fec48c56c98363700e5caac  QLLaunch-1.1.1-108-Universal.zip
